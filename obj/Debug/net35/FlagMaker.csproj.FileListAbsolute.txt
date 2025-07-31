@@ -1,0 +1,10 @@
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\obj\Debug\net35\FlagMaker.csproj.AssemblyReference.cache
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\obj\Debug\net35\PluginInfo.cs
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\obj\Debug\net35\FlagMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\obj\Debug\net35\FlagMaker.AssemblyInfoInputs.cache
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\obj\Debug\net35\FlagMaker.AssemblyInfo.cs
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\obj\Debug\net35\FlagMaker.csproj.CoreCompileInputs.cache
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\bin\Debug\net35\FlagMaker.dll
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\bin\Debug\net35\FlagMaker.pdb
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\obj\Debug\net35\FlagMaker.dll
+C:\Users\Cmull\Documents\MAGEARENAPLUGINS\FlagMaker\obj\Debug\net35\FlagMaker.pdb
